@@ -1,2 +1,11 @@
 # tarot
-Tarot Game
+tarot game 
+IN DEVELOPMENT
+VERSION 1.0.1
+TYPE : Game
+CREATED : Apr 15, 2020
+STATUS : LOCAL TEST
+GITHUB PROJECT : GAME [ AGENT ]
+
+
+
